@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de852c17.css",
+    "main.js": "/static/js/main.1e432891.js",
+    "static/media/WorldCook.png": "/static/media/WorldCook.8fccdae7707794dd6bd7.png",
+    "static/media/WeatherDash.png": "/static/media/WeatherDash.4433118d7cedb0362c67.png",
+    "static/media/ConcertFinder.png": "/static/media/ConcertFinder.174997f808b121750bc2.png",
+    "static/media/SchedulePlanner.png": "/static/media/SchedulePlanner.81c958d0cff0c7834f17.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/logo.png": "/static/media/logo.df75c53b0c64f1901d66.png",
+    "static/media/NoteTaker.png": "/static/media/NoteTaker.4ce5442d9aa7d22062e6.png",
+    "static/media/PasswordGenerator.png": "/static/media/PasswordGenerator.42246675f52f2bbb9419.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.de852c17.css.map": "/static/css/main.de852c17.css.map",
+    "main.1e432891.js.map": "/static/js/main.1e432891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de852c17.css",
+    "static/js/main.1e432891.js"
+  ]
+}
